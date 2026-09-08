@@ -4,7 +4,7 @@ resources:
   - ../../base
 namespace: prod
 replicas:
-  - name: phoniex-app
+  - name: hello-app
     count: 4
 images:
   - name: nginx
