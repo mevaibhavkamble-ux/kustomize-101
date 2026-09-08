@@ -5,4 +5,4 @@ resources:
 namespace: dev
 replicas:
   - name: hello-app
-    count: 2
+    count: 5
